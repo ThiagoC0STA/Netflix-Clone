@@ -1,6 +1,6 @@
 # Clone Netflix
 
-Esse foi um código desenvolvido para testar os seguintes conhecimentos:
+This was a code developed to test the following knowledge:
 
 - React
 - JavaScript
@@ -10,6 +10,12 @@ Esse foi um código desenvolvido para testar os seguintes conhecimentos:
 - Responsive web design
 
 ## See the preview:
+
+
+
+https://user-images.githubusercontent.com/82855801/171518252-ed5b6466-ac1b-48b8-a8e3-62ee121fecee.mp4
+
+
 
 ## To run the application on your machine:
 
