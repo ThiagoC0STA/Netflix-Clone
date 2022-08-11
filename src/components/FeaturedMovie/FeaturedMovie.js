@@ -30,9 +30,9 @@ function FeaturedMovie({ item }) {
             </div>
           </div>
           <div className="featured--description">
-            {item.overview.length < 450
+            {item.overview.length < 200
               ? item.overview
-              : item.overview.substr(0, 380) + "..."}
+              : item.overview.substr(0, 150) + "..."}
           </div>
           <div className="featured--buttons">
             <a className="featured--watchbutton" href={`/watch/${item.id}`}>
